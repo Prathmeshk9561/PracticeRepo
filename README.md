@@ -1,3 +1,3 @@
 # PracticeRepo
-My Practice Repository
-Author Prathmesh Kumbhar
+My Practice Repository <br>
+Author - <b>Prathmesh Kumbhar</b>
